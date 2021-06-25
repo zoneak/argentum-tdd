@@ -5,8 +5,6 @@ import java.time.LocalDateTime;
 import org.junit.Assert;
 import org.junit.Test;
 
-import com.ak.argentum.modelo.Negociacao;
-
 public class NegociacaoTest {
 
 	@Test(expected=IllegalArgumentException.class)

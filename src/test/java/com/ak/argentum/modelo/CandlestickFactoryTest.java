@@ -8,10 +8,6 @@ import java.util.List;
 import org.junit.Assert;
 import org.junit.Test;
 
-import com.ak.argentum.modelo.Candlestick;
-import com.ak.argentum.modelo.CandlestickFactory;
-import com.ak.argentum.modelo.Negociacao;
-
 public class CandlestickFactoryTest {
 
 	@Test

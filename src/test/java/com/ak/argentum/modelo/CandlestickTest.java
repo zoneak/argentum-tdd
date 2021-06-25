@@ -5,9 +5,6 @@ import java.time.LocalDateTime;
 import org.junit.Assert;
 import org.junit.Test;
 
-import com.ak.argentum.modelo.CandleBuilder;
-import com.ak.argentum.modelo.Candlestick;
-
 public class CandlestickTest {
 	
 	

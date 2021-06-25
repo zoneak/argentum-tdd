@@ -1,13 +1,11 @@
 package com.ak.argentum.xstream;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 import org.junit.Assert;
 import org.junit.Test;
 
 import com.ak.argentum.modelo.Negociacao;
-import com.ak.argentum.xstream.LocalDateTimeConverter;
 import com.thoughtworks.xstream.XStream;
 import com.thoughtworks.xstream.io.xml.DomDriver;
 
